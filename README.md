@@ -12,3 +12,11 @@ The Fibonacci sequence is a series of numbers where each number is the sum of th
    ```bash
    git clone <repository-url>
    cd <repository-folder>
+
+2. Import the fibonacci function into your Python script or use it interactively:
+   from fibonacci import fibonacci
+
+# Example usage
+print(fibonacci(5))  # Output: [0, 1, 1, 2, 3]
+
+3. Run the function with any positive integer to generate the Fibonacci sequence.
