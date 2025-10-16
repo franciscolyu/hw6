@@ -1,0 +1,30 @@
+#### .gitignore
+```plaintext
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+
+# Test coverage reports
+htmlcov/
+*.cover
+*.py,cover
+
+# Logs
+*.log
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
