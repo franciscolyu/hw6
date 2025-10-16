@@ -1,4 +1,3 @@
-# hw6
 # Fibonacci Function in Python
 
 This repository contains a Python implementation of a function to generate the Fibonacci sequence up to a specified number of terms.
